@@ -10,8 +10,8 @@
 
   ### Inovação · Criação · Letramento em IA
 
-  **Tecnologia com alma popular. Inteligência Artificial com autoria humana.**
-
+  **Inteligência Artificial, Economia Criativa, Autoria Humana**
+  
   <br>
 
   [![Website](https://img.shields.io/badge/Site-cordel2pontozero.com-f27a00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cordel2pontozero.com)
