@@ -1,13 +1,11 @@
 <div align="center">
   <!-- Substitua a URL abaixo pela logo ou banner do projeto, se houver -->
-  <img src="https://images.squarespace-cdn.com/content/v1/679647ea404fcd2e5824402c/18e46fe3-684b-463d-9f3c-b1f9230dbc44/LOGOMARCA-CORDEL+2.0+Inova+Simples.png?format=300w)" alt="Banner Cordel 2.0" width="100%">
+  <img src="https://images.squarespace-cdn.com/content/v1/679647ea404fcd2e5824402c/18e46fe3-684b-463d-9f3c-b1f9230dbc44/LOGOMARCA-CORDEL+2.0+Inova+Simples.png?format=300w)" alt="Banner Cordel 2.0" width="35%">
 
   # 📜 Cordel 2.0 — Inova Simples (I.S.)
 
-  **Tecnologia com alma popular** — Democratizando o acesso à cultura digital e fortalecemos a identidade das periferias unindo literatura de cordel e inteligência artificial.
+  **Inovação - Criação - Letramento em IA** — O diferencial não está apenas no desenvolvimento técnico, mas na capacidade de criar experiências formativas com sentido pedagógico, cultural e social.
   
-  *Nosso trabalho nasce da convicção de que a tecnologia deve ter alma e a tradição deve ter futuro.*
-
   ---
   
   [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -64,8 +62,8 @@ Quer colaborar com o ecossistema, propor parcerias ou conhecer nossas pesquisas?
 
 * 🌐 **Site Oficial:** [cordel2pontozero.com](https://www.cordel2pontozero.com)
 * ✉️ **E-mail:** contato@cordel2pontozero.com
-* 💼 **LinkedIn:** [/company/cordel2pontozero](https://www.linkedin.com/company/cordel2pontozero/)
-* 📸 **Instagram:** [@cordel2ponto0](https://www.instagram.com/cordel2ponto0/)
+* 💼 **LinkedIn:** [/company/cordel2pontozero](https://www.linkedin.com/company/106189789/admin/dashboard/)
+* 📸 **Instagram:** [@cordel2ponto0](https://www.instagram.com/cordel2pontozero)
 
 ---
 
