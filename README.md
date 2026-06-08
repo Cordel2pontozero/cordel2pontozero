@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua a URL abaixo pela logo ou banner do projeto, se houver -->
-  <img src="[https://via.placeholder.com/800x200?text=Cordel+2.0+Inova+Simples](https://images.squarespace-cdn.com/content/v1/679647ea404fcd2e5824402c/18e46fe3-684b-463d-9f3c-b1f9230dbc44/LOGOMARCA-CORDEL+2.0+Inova+Simples.png?format=300w)" alt="Banner Cordel 2.0" width="100%">
+  <img src="https://images.squarespace-cdn.com/content/v1/679647ea404fcd2e5824402c/18e46fe3-684b-463d-9f3c-b1f9230dbc44/LOGOMARCA-CORDEL+2.0+Inova+Simples.png?format=300w)" alt="Banner Cordel 2.0" width="100%">
 
   # 📜 Cordel 2.0 — Inova Simples (I.S.)
 
