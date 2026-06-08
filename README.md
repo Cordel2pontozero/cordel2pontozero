@@ -228,30 +228,42 @@ Desenvolvemos soluções para:
 
 ---
 
-## 📊 Atividade do ecossistema
+## 📊 Atividade técnica em transição
 
 <div align="center">
 
-<img 
- src="https://github-readme-stats.vercel.app/api?username=cordel2pontozero&show_icons=true&theme=dark&hide_border=true&title_color=f27a00&icon_color=f27a00&text_color=ffffff&bg_color=0d1117" 
- alt="GitHub stats" 
- height="170"
-/>
+<p>
+  Parte do desenvolvimento inicial do ecossistema <strong>Cordel 2.0</strong>
+  está registrada no perfil pessoal
+  <a href="https://github.com/outcast2020"><strong>@outcast2020</strong></a>.
+</p>
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordel2pontozero&layout=compact&theme=dark&hide_border=true&title_color=f27a00&text_color=ffffff&bg_color=0d1117" 
- alt="Top languages" 
- height="170"
-/>
+<a href="https://github.com/outcast2020">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=outcast2020&show_icons=true&theme=dark&hide_border=true&title_color=f27a00&icon_color=f27a00&text_color=ffffff&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=1800"
+    alt="Estatísticas GitHub de outcast2020"
+  />
+</a>
 
-</div>
+<a href="https://github.com/outcast2020">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=outcast2020&layout=compact&theme=dark&hide_border=true&title_color=f27a00&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800"
+    alt="Linguagens mais usadas por outcast2020"
+  />
+</a>
 
-<div align="center">
+<br><br>
 
-<img 
- src="https://github-readme-streak-stats.herokuapp.com/?user=cordel2pontozero&theme=dark&hide_border=true&ring=f27a00&fire=f27a00&currStreakLabel=f27a00" 
- alt="GitHub streak" 
-/>
+<a href="https://github.com/outcast2020">
+  <img
+    src="https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff"
+    alt="Sequência de contribuições de outcast2020"
+  />
+</a>
+
+<p><sub>Em breve, os repositórios serão publicados de forma mais sistemática na organização institucional do Cordel 2.0.</sub></p>
 
 </div>
 
@@ -274,9 +286,8 @@ Por isso, nosso trabalho é construir pontes entre tradição e inovação, entr
 ### ✨ Inovação · Criação · Letramento em IA
 
 <img 
- src="https://capsule-render.vercel.app/api?type=waving&color=f27a00&height=110&section=footer&text=Codar%20tamb%C3%A9m%20%C3%A9%20criar%20mundos&fontColor=ffffff&fontSize=24&animation=fadeIn" 
+ src="https://capsule-render.vercel.app/api?type=waving&color=f27a00&height=110&section=footer&text=Poetizar%20tamb%C3%A9m%20%C3%A9%20criar%20mundos&fontColor=ffffff&fontSize=24&animation=fadeIn" 
  alt="Footer Cordel 2.0" 
 />
 
 </div>
-```
