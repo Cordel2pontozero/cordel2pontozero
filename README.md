@@ -17,7 +17,7 @@
   [![Website](https://img.shields.io/badge/Site-cordel2pontozero.com-f27a00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cordel2pontozero.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Cordel%202.0-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordel2pontozero)
   [![Instagram](https://img.shields.io/badge/Instagram-Cordel%202.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordel2pontozero)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cordel2pontozero)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/106189789/admin/dashboard/)
 
   <br>
 
@@ -222,7 +222,7 @@ Desenvolvemos soluções para:
 [![Website](https://img.shields.io/badge/Website-www.cordel2pontozero.com-f27a00?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.cordel2pontozero.com)
 [![Email](https://img.shields.io/badge/Email-contato@cordel2pontozero.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contato@cordel2pontozero.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@cordel2pontozero-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/cordel2pontozero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/company/cordel2pontozero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/company/106189789/admin/dashboard/)
 
 </div>
 
@@ -230,43 +230,13 @@ Desenvolvemos soluções para:
 
 ## 📊 Atividade técnica em transição
 
+| Estatísticas
+
 <div align="center">
 
-<p>
-  Parte do desenvolvimento inicial do ecossistema <strong>Cordel 2.0</strong>
-  está registrada no perfil pessoal
-  <a href="https://github.com/outcast2020"><strong>@outcast2020</strong></a>.
-</p>
-
-<a href="https://github.com/outcast2020">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=outcast2020&show_icons=true&theme=dark&hide_border=true&title_color=f27a00&icon_color=f27a00&text_color=ffffff&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=1800"
-    alt="Estatísticas GitHub de outcast2020"
-  />
-</a>
-
-<a href="https://github.com/outcast2020">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=outcast2020&layout=compact&theme=dark&hide_border=true&title_color=f27a00&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800"
-    alt="Linguagens mais usadas por outcast2020"
-  />
-</a>
-
-<br><br>
-
-<a href="https://github.com/outcast2020">
-  <img
-    src="https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff"
-    alt="Sequência de contribuições de outcast2020"
-  />
-</a>
-
-<p><sub>Em breve, os repositórios serão publicados de forma mais sistemática na organização institucional do Cordel 2.0.</sub></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff)](https://github.com/outcast2020)
 
 </div>
-
 ---
 
 ## 🧡 Manifesto
