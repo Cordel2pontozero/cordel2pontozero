@@ -127,7 +127,7 @@ flowchart LR
 
 `Em desenvolvimento`
 
-[![ARARA — Acesse o app](https://img.shields.io/badge/🦜%20App%20ARARA-Acessar-f27a00?style=for-the-badge&logoColor=white)](https://cordel2pontozero.github.io/arara-apresentacao-oficial/)
+[![ARARA — Acesse o app](https://images.squarespace-cdn.com/content/v1/679647ea404fcd2e5824402c/123e555c-e1da-4489-8c1a-5c44e9c07999/Banner+Arara.png?format=750w)](https://cordel2pontozero.github.io/arara-apresentacao-oficial/)
 
 Aplicativo voltado à escrita de cordel, criação poética e experimentação com IA generativa. A proposta une palavra, imagem, oralidade e autoria para estimular processos de criação com identidade cultural.
 
