@@ -239,13 +239,13 @@ Desenvolvemos soluções para:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade técnica em transição
+
+| Estatísticas
 
 <div align="center">
 
-user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff)](https://github.com/outcast2020)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordel2pontozero&layout=compact&theme=radical&title_color=f27a00&text_color=ffffff&bg_color=0d1117&border_color=f27a00)
+[![GitHub Streak](https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff)](https://github.com/outcast2020)
 
 </div>
 
