@@ -11,7 +11,7 @@
   ### Inovação · Criação · Letramento em IA
 
   **Inteligência Artificial, Economia Criativa, Autoria Humana**
-  
+
   <br>
 
   [![Website](https://img.shields.io/badge/Site-cordel2pontozero.com-f27a00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cordel2pontozero.com)
@@ -44,8 +44,8 @@ Mais do que desenvolver aplicativos, construímos um ecossistema formado por:
 
 Acreditamos que o futuro tecnológico não pode ser privilégio de poucos. A IA precisa dialogar com escolas, periferias, bibliotecas, coletivos culturais, educadores, jovens, artistas e comunidades que reinventam linguagem todos os dias.
 
-> **Não fazemos tecnologia para substituir a criação humana.  
-> Fazemos tecnologia para ampliar autoria, imaginação, aprendizagem e justiça social.**
+> **Não fazemos tecnologia para substituir a criação humana.**
+> **Fazemos tecnologia para ampliar autoria, imaginação, aprendizagem e justiça social.**
 
 ---
 
@@ -53,19 +53,19 @@ Acreditamos que o futuro tecnológico não pode ser privilégio de poucos. A IA 
 
 Atualmente, o Cordel 2.0 desenvolve um ecossistema de soluções para **letramento digital em Inteligência Artificial por meio da escrita**.
 
-- 🧠 **IA na Educação**  
+- 🧠 **IA na Educação**
   Criamos experiências para compreender, questionar e usar IA generativa com responsabilidade.
 
-- ✍️ **Escrita Criativa e Cordel**  
+- ✍️ **Escrita Criativa e Cordel**
   Desenvolvemos metodologias que unem tradição oral, poesia popular, rima, autoria e tecnologia.
 
-- 🎮 **Apps e Jogos Educativos**  
+- 🎮 **Apps e Jogos Educativos**
   Criamos protótipos como ARARA, INANNA e IZA para aprendizagem, criação e reflexão.
 
-- 🌎 **Atuação Territorial**  
+- 🌎 **Atuação Territorial**
   Trabalhamos com cultura popular, periferias urbanas, escolas, bibliotecas e redes comunitárias.
 
-- 🤝 **B2B e B2G**  
+- 🤝 **B2B e B2G**
   Desenvolvemos soluções para empresas, instituições, governos, programas públicos e organizações culturais.
 
 ---
@@ -85,13 +85,14 @@ Atualmente, o Cordel 2.0 desenvolve um ecossistema de soluções para **letramen
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deploy-222222?style=flat-square&logo=github&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-f27a00?style=flat-square)
 
 </div>
 
 | Campo | Ferramentas |
 |---|---|
-| IA & NLP | Python, prompts, LLMs, Hugging Face |
+| IA & NLP | Python, prompts, LLMs, Hugging Face, OpenAI API |
 | Web | HTML, CSS, JavaScript, Node.js |
 | Deploy | Vercel, Netlify, GitHub Pages |
 | Design | Figma, Canva, prototipagem |
@@ -116,7 +117,7 @@ flowchart LR
     E --> J[Chatbot reflexivo]
     F --> K[Letramento em IA]
     G --> L[Educação, cultura e inovação social]
-````
+```
 
 ---
 
@@ -125,6 +126,8 @@ flowchart LR
 ### 🦜 ARARA
 
 `Em desenvolvimento`
+
+[![ARARA — Acesse o app](https://img.shields.io/badge/🦜%20App%20ARARA-Acessar-f27a00?style=for-the-badge&logoColor=white)](https://cordel2pontozero.github.io/arara-apresentacao-oficial/)
 
 Aplicativo voltado à escrita de cordel, criação poética e experimentação com IA generativa. A proposta une palavra, imagem, oralidade e autoria para estimular processos de criação com identidade cultural.
 
@@ -136,6 +139,8 @@ Aplicativo voltado à escrita de cordel, criação poética e experimentação c
 
 `MVP`
 
+[![INANNA — Acesse o app](https://img.shields.io/badge/🔮%20App%20INANNA-Acessar-6a0dad?style=for-the-badge&logoColor=white)](https://cordel2pontozero.github.io/Inanna-apresentacao-oficial/)
+
 Jogo de poesia e autoria que valoriza a decisão humana diante das sugestões preditivas da IA. O objetivo é mostrar, de forma gamificada, que a melhor rima não é necessariamente a mais provável, mas aquela que nasce da criação, da verossimilhança e da intenção humana.
 
 **Eixos:** `game educativo` · `poesia` · `rima` · `agência humana`
@@ -145,6 +150,8 @@ Jogo de poesia e autoria que valoriza a decisão humana diante das sugestões pr
 ### 💬 IZA Chatbot Reflexivo
 
 `Alpha`
+
+[![IZA — Acesse o app](https://img.shields.io/badge/💬%20App%20IZA-Acessar-0a7ea4?style=for-the-badge&logoColor=white)](https://cordel2pontozero.github.io/Iza-apresentacao-oficial/)
 
 Chatbot educacional criado para provocar perguntas, reflexões e diálogos sobre tecnologia, literatura, ética, autoria e inteligência artificial. A IZA parte de uma ideia simples: perguntar também é uma forma de pensar.
 
@@ -162,19 +169,36 @@ Repositório dedicado a oficinas, jornadas criativas, materiais pedagógicos, pr
 
 ---
 
+## 🤖 IA no coração do processo
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   voz humana  ──►  prompt  ──►  LLM  ──►  sugestão            │
+│                                   │                             │
+│                              ◄────┘                             │
+│            curadoria · crítica · autoria · cordel               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+No Cordel 2.0, a IA não decide — ela propõe. A decisão final é sempre do poeta, da educadora, do estudante. Trabalhamos com modelos de linguagem de grande escala (LLMs) como ferramentas de **amplificação criativa**, nunca de substituição.
+
+---
+
 ## 🧭 Roadmap do protótipo
 
-| TRL   | Marco                       |
-| ----- | --------------------------- |
-| TRL 1 | Princípios                  |
-| TRL 2 | Conceito técnico-pedagógico |
-| TRL 3 | Prova de conceito cultural  |
-| TRL 4 | Protótipo em laboratório    |
-| TRL 5 | Ambiente relevante          |
-| TRL 6 | Protótipo funcional         |
-| TRL 7 | Demonstração operacional    |
-| TRL 8 | Produto validado            |
-| TRL 9 | Operação com clientes       |
+| TRL   | Marco                       | Status |
+| ----- | --------------------------- | ------ |
+| TRL 1 | Princípios                  | ✅ |
+| TRL 2 | Conceito técnico-pedagógico | ✅ |
+| TRL 3 | Prova de conceito cultural  | ✅ |
+| TRL 4 | Protótipo em laboratório    | ✅ |
+| TRL 5 | Ambiente relevante          | 🔄 |
+| TRL 6 | Protótipo funcional         | 🔄 |
+| TRL 7 | Demonstração operacional    | ⏳ |
+| TRL 8 | Produto validado            | ⏳ |
+| TRL 9 | Operação com clientes       | ⏳ |
 
 <details>
 <summary>📌 Ver foco atual do roadmap</summary>
@@ -183,9 +207,9 @@ Estamos consolidando a passagem do **Coletivo Cultural Cordel 2.0** para uma sta
 
 A prioridade atual é estruturar o ecossistema em três frentes:
 
-* **Produto:** ARARA, INANNA e IZA;
-* **Método:** oficinas, formação e curadoria;
-* **Mercado:** parcerias B2B, B2G e projetos territoriais.
+- **Produto:** ARARA, INANNA e IZA;
+- **Método:** oficinas, formação e curadoria;
+- **Mercado:** parcerias B2B, B2G e projetos territoriais.
 
 </details>
 
@@ -193,11 +217,11 @@ A prioridade atual é estruturar o ecossistema em três frentes:
 
 ## 🌍 Onde atuamos
 
-* Salvador, Bahia, Brasil;
-* Região Metropolitana de Salvador;
-* escolas, bibliotecas e espaços culturais;
-* territórios periféricos e comunidades criativas;
-* projetos com empresas, governos e organizações culturais.
+- Salvador, Bahia, Brasil;
+- Região Metropolitana de Salvador;
+- escolas, bibliotecas e espaços culturais;
+- territórios periféricos e comunidades criativas;
+- projetos com empresas, governos e organizações culturais.
 
 ---
 
@@ -205,13 +229,25 @@ A prioridade atual é estruturar o ecossistema em três frentes:
 
 Desenvolvemos soluções para:
 
-* escolas e redes de ensino;
-* universidades e grupos de pesquisa;
-* secretarias e políticas públicas;
-* empresas e institutos;
-* organizações culturais;
-* coletivos, bibliotecas e comunidades;
-* educadores, estudantes, artistas e escritores.
+- escolas e redes de ensino;
+- universidades e grupos de pesquisa;
+- secretarias e políticas públicas;
+- empresas e institutos;
+- organizações culturais;
+- coletivos, bibliotecas e comunidades;
+- educadores, estudantes, artistas e escritores.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cordel2pontozero&show_icons=true&theme=radical&title_color=f27a00&icon_color=f27a00&text_color=ffffff&bg_color=0d1117&border_color=f27a00)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordel2pontozero&layout=compact&theme=radical&title_color=f27a00&text_color=ffffff&bg_color=0d1117&border_color=f27a00)
+
+</div>
 
 ---
 
@@ -219,45 +255,13 @@ Desenvolvemos soluções para:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-www.cordel2pontozero.com-f27a00?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.cordel2pontozero.com)
-[![Email](https://img.shields.io/badge/Email-contato@cordel2pontozero.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contato@cordel2pontozero.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@cordel2pontozero-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/cordel2pontozero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/company/106189789/admin/dashboard/)
+[![Website](https://img.shields.io/badge/Website-www.cordel2pontozero.com-f27a00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.cordel2pontozero.com)
+[![Email](https://img.shields.io/badge/Email-contato@cordel2pontozero.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@cordel2pontozero.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@cordel2pontozero-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordel2pontozero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cordel%202.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/106189789/admin/dashboard/)
 
-</div>
+<br>
 
----
-
-## 📊 Atividade técnica em transição
-
-| Estatísticas
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff)](https://github.com/outcast2020)
-
-</div>
----
-
-## 🧡 Manifesto
-
-O Cordel 2.0 nasce onde a tecnologia encontra a cultura popular.
-
-A literatura de cordel nos ensina que linguagem também é território. A inteligência artificial nos desafia a perguntar quem cria, quem decide e quem participa do futuro digital.
-
-Por isso, nosso trabalho é construir pontes entre tradição e inovação, entre periferia e tecnologia, entre escrita popular e IA generativa.
-
-**Cordel 2.0 — rimas, códigos e futuros possíveis.**
-
----
-
-<div align="center">
-
-### ✨ Inovação · Criação · Letramento em IA
-
-<img 
- src="https://capsule-render.vercel.app/api?type=waving&color=f27a00&height=110&section=footer&text=Poetizar%20tamb%C3%A9m%20%C3%A9%20criar%20mundos&fontColor=ffffff&fontSize=24&animation=fadeIn" 
- alt="Footer Cordel 2.0" 
-/>
+*"A tecnologia que não fala a língua do povo não serve ao povo."*
 
 </div>
