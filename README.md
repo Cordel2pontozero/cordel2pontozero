@@ -241,8 +241,6 @@ Desenvolvemos soluções para:
 
 ## 📊 Atividade técnica em transição
 
-| Estatísticas
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=outcast2020&theme=dark&hide_border=true&background=0d1117&ring=f27a00&fire=f27a00&currStreakLabel=f27a00&sideLabels=ffffff&dates=ffffff)](https://github.com/outcast2020)
