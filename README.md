@@ -49,7 +49,7 @@ Acreditamos que o futuro tecnológico não pode ser privilégio de poucos. A IA 
 
 ---
 
-## 🚀 What we are doing now
+## 🚀 O que fazemos
 
 Atualmente, o Cordel 2.0 desenvolve um ecossistema de soluções para **letramento digital em Inteligência Artificial por meio da escrita**.
 
