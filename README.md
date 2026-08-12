@@ -6,7 +6,7 @@
     width="180"
   />
 
-  # 📜 Cordel 2.0 — Inova Simples I.S.
+  # 📜 Cordel 2.0 - Educação, Cultura e Inovação.
 
   ### Inovação · Criação · Letramento em IA
 
