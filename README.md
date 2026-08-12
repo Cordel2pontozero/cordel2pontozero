@@ -65,9 +65,10 @@ Plataforma de escrita em **duas versões, mesma origem**:
 - **ENEM** — correção de redação com **dupla leitura independente** e notas **C1–C5**
   ancoradas na matriz do INEP, em produção desde 22/06/2026.
 
-A correção foi **validada contra 385 redações periciadas por dois especialistas humanos
-cada**, com manifesto de integridade — inclusive publicando um defeito nosso que
-encontramos e corrigimos.
+A correção foi **medida contra 385 redações periciadas por dois especialistas humanos
+cada**, com manifesto de integridade. Publicamos o que a bancada mostrou a nosso favor e
+também **contra nós** — inclusive uma errata em que a nossa própria régua de medição nos
+favorecia, e os defeitos que seguem abertos.
 
 **Eixos:** `escrita` · `redação ENEM` · `mediação docente` · `evidência`
 
