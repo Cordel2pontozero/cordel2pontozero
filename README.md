@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cordel-logo-laranja.png" alt="Cordel 2.0 Inova Simples" width="180" />
+<img src="./assets/cordel-logo-laranja.png" alt="Cordel 2.0 - Educação, Cultura e Inovação" width="180" />
 
   # 📜 Cordel 2.0 - Educação, Cultura e Inovação.
 
@@ -25,7 +25,7 @@
 
 ## 💡 O que somos
 
-O **Cordel 2.0 Inova Simples I.S.** é uma startup brasileira de **formação, consultoria e
+O **Cordel 2.0 - Educação, Cultura e Inovação** é uma startup brasileira de **formação, consultoria e
 design pedagógico**. Nascemos da experiência do **Coletivo Cultural Cordel 2.0**, nosso
 celeiro criativo e pilar territorial.
 
@@ -143,7 +143,7 @@ sub-representada nos corpora que treinam sistemas de linguagem.
 
 ```mermaid
 flowchart LR
-    A[Coletivo Cultural Cordel 2.0] --> B[Cordel 2.0 Inova Simples]
+    A[Coletivo Cultural Cordel 2.0] --> B[Cordel 2.0 - Educação, Cultura e Inovação]
     B --> M[Formação · Consultoria · Design pedagógico]
     M --> N[Oficinas e programas de letramento digital]
 
@@ -289,8 +289,8 @@ Textos institucionais e identidade visual do Cordel 2.0 seguem **CC BY-ND 4.0**.
 
 <br>
 
-**CORDEL 2.0 INOVA SIMPLES (I.S.)**
-CNPJ 66.466.887/0001-16
+**CORDEL 2.0 - EDUCAÇÃO, CULTURA E INOVAÇÃO**
+CNPJ 68.110.384/0001-39
 Salvador — Bahia — Brasil
 
 <br>
