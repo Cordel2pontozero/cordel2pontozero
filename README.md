@@ -184,13 +184,13 @@ Escala TRL aplicada **dispositivo a dispositivo**, e não ao conjunto.
 
 ### Situação por dispositivo
 
-| Dispositivo | TRL 7 | Em andamento | Estado |
+| Dispositivo | TRL atual | Em andamento | Estado |
 |---|:---:|---|---|
-| **ARARA ENEM** — corretor de redação | ✅ | — | **TRL 9 ✅** — operação com usuários reais, validado contra corpus pericial |
-| **ARARA Trilhas** | ✅ | TRL 8 → 9 | Em produção; consolidando validação em uso institucional |
-| **INANNA** | ✅ | TRL 8 → 9 | Em produção; ampliando uso em turmas e oficinas |
-| **TICA** | ✅ | TRL 8 → 9 | Produção controlada; avançando por gates humanos |
-| **REGISTRO COLETIVO** | ✅ | TRL 8 → 9 | Território no ar; aguarda oficina de construção com a comunidade |
+| **ARARA ENEM** — corretor de redação | **9** ✅ | — | Operação com usuários reais, validado contra corpus pericial |
+| **ARARA Trilhas** | **7** ✅ | TRL 8 → 9 | Em produção; consolidando validação em uso institucional |
+| **INANNA** | **7** ✅ | TRL 8 → 9 | Em produção; ampliando uso em turmas e oficinas |
+| **TICA** | **7** ✅ | TRL 8 → 9 | Produção controlada; avançando por gates humanos |
+| **REGISTRO COLETIVO** | **2–3** | TRL 4 | Conceito formulado e prova de conceito; aguarda oficina de construção com a comunidade |
 
 ### Leitura da escala
 
@@ -199,19 +199,23 @@ Escala TRL aplicada **dispositivo a dispositivo**, e não ao conjunto.
 | TRL 1 | Princípios | ✅ |
 | TRL 2 | Conceito técnico-pedagógico | ✅ |
 | TRL 3 | Prova de conceito cultural | ✅ |
-| TRL 4 | Protótipo em laboratório | ✅ |
-| TRL 5 | Ambiente relevante | ✅ |
-| TRL 6 | Protótipo funcional | ✅ |
-| TRL 7 | Demonstração operacional | ✅ **todos os dispositivos** |
-| TRL 8 | Produto validado | 🔄 em andamento · ✅ ARARA ENEM |
-| TRL 9 | Operação com clientes | 🔄 em andamento · ✅ ARARA ENEM |
+| TRL 4 | Protótipo em laboratório | ✅ *(exceto Registro Coletivo)* |
+| TRL 5 | Ambiente relevante | ✅ *(exceto Registro Coletivo)* |
+| TRL 6 | Protótipo funcional | ✅ *(exceto Registro Coletivo)* |
+| TRL 7 | Demonstração operacional | ✅ ARARA Trilhas · ARARA ENEM · INANNA · TICA |
+| TRL 8 | Produto validado | ✅ ARARA ENEM · 🔄 demais em andamento |
+| TRL 9 | Operação com clientes | ✅ ARARA ENEM · 🔄 demais em andamento |
 
-**Todos os cinco dispositivos alcançaram o TRL 7.** O **corretor de redação do ENEM** é o
-primeiro a fechar o **TRL 9**, sustentado por bancada de evidências com 385 redações
-periciadas por dois especialistas humanos cada, 179 redações nota 1000 como teto de
-referência e manifesto SHA256 amarrando dados, resultados e código.
+**Quatro dos cinco dispositivos alcançaram o TRL 7** e avançam nos TRL 8 e 9.
 
-Os demais avançam nos **TRL 8 e 9**, consolidando validação em uso institucional.
+O **corretor de redação do ENEM** é o primeiro a fechar o **TRL 9**, sustentado por bancada
+de evidências com 385 redações periciadas por dois especialistas humanos cada, 179 redações
+nota 1000 como teto de referência e manifesto SHA256 amarrando dados, resultados e código.
+
+O **Registro Coletivo está entre TRL 2 e 3** — conceito formulado e prova de conceito. O
+território está navegável e há uma obra ancorada, mas **nenhuma oficina de construção foi
+realizada com a comunidade e não há parceria formalizada**. Registrar isso com honestidade
+importa mais do que exibir um número alto.
 
 ## 🛠️ Tecnologia
 
