@@ -32,7 +32,7 @@ celeiro criativo e pilar territorial.
 O que entregamos é **aprendizado**: oficinas e programas de **letramento digital, leitura e
 escrita**, com método, curadoria e acompanhamento humano.
 
-Para sustentar essa formação, desenvolvemos **cinco softwares próprios** — feitos em casa,
+Para sustentar essa formação, desenvolvemos **cinco softwares próprios** - feitos em casa,
 não licenciados de terceiros nem revendidos. Eles não são o produto: são o **meio** pelo
 qual a formação acontece.
 
@@ -47,39 +47,42 @@ qual a formação acontece.
 | **B2G** | Secretarias, políticas públicas, bibliotecas e programas territoriais: oficinas de letramento digital em rede pública, com relatórios institucionais. |
 | **B2C** | Estudantes, educadores, poetas e escritores: acesso direto às plataformas, ao simulador de redação ENEM e às jornadas de escrita. |
 
-O **simulador de redação ENEM** atende às três frentes com o mesmo motor de correção — o que
+O **simulador de redação ENEM** atende às três frentes com o mesmo motor de correção - o que
 muda é o desenho da formação em volta dele.
 
 ## 📦 Os cinco softwares próprios
 
-### 🦜 ARARA — Trilhas e ENEM
+### 🦜 ARARA - Trilhas e ENEM
 
 `Em produção`
 
-[![Acessar o app](https://img.shields.io/badge/🦜%20App%20ARARA-Acessar-f27a00?style=for-the-badge&logoColor=white)](https://arara.cordel2pontozero.com)
-[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://github.com/Cordel2pontozero/arara-apresentacao-oficial)
+[![Acessar Trilhas](https://img.shields.io/badge/🦜%20ARARA%20Trilhas-Acessar-f27a00?style=for-the-badge&logoColor=white)](https://arara.cordel2pontozero.com)
+[![Acessar ENEM](https://img.shields.io/badge/📝%20ARARA%20ENEM-Acessar-b5342a?style=for-the-badge&logoColor=white)](https://enem.cordel2pontozero.com)
+[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://cordel2pontozero.github.io/arara-apresentacao-oficial/)
 
 Plataforma de escrita em **duas versões, mesma origem**:
 
-- **Trilhas** — escrita poética e acadêmica, Motor H2 e Espaço do Educador;
-- **ENEM** — correção de redação com **dupla leitura independente** e notas **C1–C5**
-  ancoradas na matriz do INEP, em produção desde 22/06/2026.
+- **Trilhas** - escrita poética e acadêmica, Motor H2 e Espaço do Educador, em
+  [arara.cordel2pontozero.com](https://arara.cordel2pontozero.com);
+- **ENEM** - correção de redação com **dupla leitura independente** e notas **C1-C5**
+  ancoradas na matriz do INEP, em produção desde 22/06/2026, em
+  [enem.cordel2pontozero.com](https://enem.cordel2pontozero.com).
 
 A correção foi **medida contra 385 redações periciadas por dois especialistas humanos
 cada**, com manifesto de integridade. Publicamos o que a bancada mostrou a nosso favor e
-também **contra nós** — inclusive uma errata em que a nossa própria régua de medição nos
+também **contra nós** - inclusive uma errata em que a nossa própria régua de medição nos
 favorecia, e os defeitos que seguem abertos.
 
 **Eixos:** `escrita` · `redação ENEM` · `mediação docente` · `evidência`
 
 ---
 
-### 🔮 INANNA — Proto-IA educativa
+### 🔮 INANNA - Proto-IA educativa
 
 `Em produção`
 
 [![Acessar o app](https://img.shields.io/badge/🔮%20App%20INANNA-Acessar-6a0dad?style=for-the-badge&logoColor=white)](https://inanna.cordel2pontozero.com)
-[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://github.com/Cordel2pontozero/Inanna-apresentacao-oficial)
+[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://cordel2pontozero.github.io/Inanna-apresentacao-oficial/)
 
 Jogo de cordel que **abre a caixa-preta da próxima palavra**: mostra candidatos e
 probabilidades e premia quando a escolha humana rompe a previsão da máquina.
@@ -90,12 +93,12 @@ Explicar um modelo de linguagem é abstrato. Perder uma rima para ele não é.
 
 ---
 
-### 💬 TICA — Chatbot reflexivo
+### 💬 TICA - Chatbot reflexivo
 
 `Produção controlada`
 
 [![Acessar o app](https://img.shields.io/badge/💬%20App%20TICA-Acessar-0a7ea4?style=for-the-badge&logoColor=white)](https://tica.cordel2pontozero.com)
-[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://github.com/Cordel2pontozero/tica-apresentacao-oficial)
+[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://cordel2pontozero.github.io/tica-apresentacao-oficial/)
 
 Escrita guiada por perguntas. Herda **o espelho de ELIZA** e **a maiêutica socrática**, e
 conversa em cordel. O worker **Curupira** atua como consciência sintática **não-aditiva**:
@@ -107,12 +110,12 @@ reveste a forma, nunca introduz conteúdo novo.
 
 ---
 
-### 🗺️ REGISTRO COLETIVO — Território e xilogravura
+### 🗺️ REGISTRO COLETIVO - Território e xilogravura
 
 `Protótipo`
 
 [![Visitar o território](https://img.shields.io/badge/🗺️%20Território-Visitar-146a6f?style=for-the-badge&logoColor=white)](https://territorio.cordel2pontozero.com)
-[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://github.com/Cordel2pontozero/registro-coletivo-apresentacao)
+[![Ver apresentação](https://img.shields.io/badge/Apresentação-111111?style=for-the-badge)](https://cordel2pontozero.github.io/registro-coletivo-apresentacao/)
 
 Registro vivo de escrita popular e xilogravura **ancorado no chão onde cada obra nasce**,
 com um construtor de espaços culturais em 3D para a comunidade erguer, sem código, os
@@ -124,14 +127,14 @@ Primeiro território: entorno do **Espaço Cultural Alagados**, Salvador.
 
 ---
 
-### 📚 DATASET POPULAR BRASILEIRO — Acervo aberto
+### 📚 DATASET POPULAR BRASILEIRO - Acervo aberto
 
 `Aberto e colaborativo`
 
 [![Contribuir](https://img.shields.io/badge/📚%20Dataset-Contribuir-b55a30?style=for-the-badge&logoColor=white)](https://cordel2pontozero.github.io/dataset-popular-Brasileiro/)
 [![Repositório](https://img.shields.io/badge/Repositório-111111?style=for-the-badge)](https://github.com/Cordel2pontozero/dataset-popular-Brasileiro)
 
-Palavras, expressões e referências da cultura popular brasileira — a língua
+Palavras, expressões e referências da cultura popular brasileira - a língua
 sub-representada nos corpora que treinam sistemas de linguagem.
 
 **Aberto por decisão:** o software é nosso, a língua não é.
@@ -149,17 +152,17 @@ flowchart LR
     M --> N[Oficinas e programas de letramento digital]
 
     B --> C[ARARA]
-    C --> C1[Trilhas — poética, acadêmica, educador]
-    C --> C2[ENEM — correção C1–C5]
+    C --> C1[Trilhas - poética, acadêmica, educador]
+    C --> C2[ENEM - correção C1-C5]
 
     B --> D[INANNA]
     B --> E[TICA]
     B --> F[REGISTRO COLETIVO]
     B --> G[DATASET POPULAR BRASILEIRO]
 
-    N --> H[B2B — escolas, cursinhos, institutos]
-    N --> I[B2G — secretarias e políticas públicas]
-    N --> J[B2C — estudantes, educadores, escritores]
+    N --> H[B2B - escolas, cursinhos, institutos]
+    N --> I[B2G - secretarias e políticas públicas]
+    N --> J[B2C - estudantes, educadores, escritores]
 ```
 
 ## 🤖 IA no coração do processo
@@ -175,7 +178,7 @@ flowchart LR
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-No Cordel 2.0, a IA não decide — ela propõe. A decisão final é sempre do poeta, da
+No Cordel 2.0, a IA não decide - ela propõe. A decisão final é sempre do poeta, da
 educadora, do estudante. Trabalhamos com modelos de linguagem como ferramentas de
 **amplificação criativa**, nunca de substituição.
 
@@ -187,11 +190,11 @@ Escala TRL aplicada **dispositivo a dispositivo**, e não ao conjunto.
 
 | Dispositivo | TRL atual | Em andamento | Estado |
 |---|:---:|---|---|
-| **ARARA ENEM** — corretor de redação | **9** ✅ | — | Operação com usuários reais, validado contra corpus pericial |
+| **ARARA ENEM** - corretor de redação | **9** ✅ | - | Operação com usuários reais, validado contra corpus pericial |
 | **ARARA Trilhas** | **7** ✅ | TRL 8 → 9 | Em produção; consolidando validação em uso institucional |
 | **INANNA** | **7** ✅ | TRL 8 → 9 | Em produção; ampliando uso em turmas e oficinas |
 | **TICA** | **7** ✅ | TRL 8 → 9 | Produção controlada; avançando por gates humanos |
-| **REGISTRO COLETIVO** | **2–3** | TRL 4 | Conceito formulado e prova de conceito; aguarda oficina de construção com a comunidade |
+| **REGISTRO COLETIVO** | **2-3** | TRL 4 | Conceito formulado e prova de conceito; aguarda oficina de construção com a comunidade |
 
 ### Leitura da escala
 
@@ -213,7 +216,7 @@ O **corretor de redação do ENEM** é o primeiro a fechar o **TRL 9**, sustenta
 de evidências com 385 redações periciadas por dois especialistas humanos cada, 179 redações
 nota 1000 como teto de referência e manifesto SHA256 amarrando dados, resultados e código.
 
-O **Registro Coletivo está entre TRL 2 e 3** — conceito formulado e prova de conceito. O
+O **Registro Coletivo está entre TRL 2 e 3** - conceito formulado e prova de conceito. O
 território está navegável e há uma obra ancorada, mas **nenhuma oficina de construção foi
 realizada com a comunidade e não há parceria formalizada**. Registrar isso com honestidade
 importa mais do que exibir um número alto.
@@ -269,11 +272,11 @@ Os softwares do ecossistema seguem regimes distintos, declarados em cada reposit
 
 | Software | Regime |
 |---|---|
-| **ARARA** | Software proprietário — todos os direitos reservados |
+| **ARARA** | Software proprietário - todos os direitos reservados |
 | **INANNA** | Vitrine sob MIT; conteúdo em CC BY-ND 4.0 |
 | **TICA** | Vitrine sob MIT; conteúdo em CC BY-ND 4.0 |
 | **REGISTRO COLETIVO** | Conteúdo em CC BY-ND 4.0; base cartográfica em ODbL |
-| **DATASET POPULAR BRASILEIRO** | Aberto sob MIT — por decisão |
+| **DATASET POPULAR BRASILEIRO** | Aberto sob MIT - por decisão |
 
 Textos institucionais e identidade visual do Cordel 2.0 seguem **CC BY-ND 4.0**.
 
@@ -292,7 +295,7 @@ Textos institucionais e identidade visual do Cordel 2.0 seguem **CC BY-ND 4.0**.
 
 **CORDEL 2.0 - EDUCAÇÃO, CULTURA E INOVAÇÃO**
 CNPJ 68.110.384/0001-39
-Salvador — Bahia — Brasil
+Salvador - Bahia - Brasil
 
 <br>
 
